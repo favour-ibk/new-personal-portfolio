@@ -159,6 +159,19 @@ body{
   #REUSED STYLE
 \*-----------------------------------*/
 
+body {
+  padding: 15px;
+  background-color: rgb(252, 204, 204);
+  color: black;
+  font-size: 25px;
+}
+
+.dark-mode {
+  background-color: black;
+  color: rgb(252, 204, 204);
+}
+
+
 .sidebar,
 article {
   background: var(--eerie-black-2);
