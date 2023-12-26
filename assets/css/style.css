@@ -562,6 +562,12 @@ main {
   line-height: 1.6;
 }
 
+.view-resume{
+  background-color:  hsl(45, 100%, 71%);
+  color: white;
+  border-radius: 5px;
+}
+
 
 /**
  * #testimonials 
